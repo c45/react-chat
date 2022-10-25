@@ -1,4 +1,4 @@
-<h1>Chat</h1>
+<h2>Chat</h2>
 Simple chat using React and Firebase.
 <h2>Installation guide:</h2>
 
