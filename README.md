@@ -7,4 +7,4 @@ Simple chat using React and Firebase.
 `npm run dev`
 
 ---
-<h2>Preview <a href='https://residentsieeper.github.io/chat'>here</a></h2>
+<h2>Preview <a target='_blank' href='https://residentsieeper.github.io/chat'>here</a></h2>
