@@ -16,7 +16,7 @@ const Navbar = () => {
 			<Toolbar variant={'dense'}>
 				<Grid container justify={'flex-end'}>
 					{user ? 
-						<Button onClick={() => signOut(auth)} color={'error'} variant={'contained'}>Выйти нахуй</Button>
+						<Button onClick={() => signOut(auth)} color={'error'} variant={'contained'}>Выйти</Button>
 						:
 						<NavLink to={LOGIN_ROUTE}>
 							<Button color={'success'} variant={'contained'}>Войти</Button>
