@@ -1,5 +1,5 @@
 <h2>Chat</h2>
-Simple chat using React and Firebase.
+Real-Time chat using React and Firebase.
 <h2>Installation guide:</h2>
 
 `npm install`
