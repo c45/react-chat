@@ -1,4 +1,4 @@
-<h2>Chat</h2>
+<h2>React Chat</h2>
 Real-Time chat using React and Firebase.
 <h2>Installation guide:</h2>
 
